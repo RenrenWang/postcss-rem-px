@@ -1,0 +1,21 @@
+{
+  "name": "postcss-rem-px",
+  "version": "0.0.2",
+  "keywords": [
+    "rem",
+    "postcss",
+    "px",
+    "css"
+  ],
+  "description": "rem,px,loader,css,px,postcss",
+  "main": "index.js",
+  "scripts": {},
+  "files": [
+    "index.js"
+  ],
+  "author": "wrr",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^8.3.6"
+  }
+}
